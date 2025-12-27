@@ -2,7 +2,7 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(rgba(8, 0, 58, .7), rgba(8, 0, 58, .7)), 
-    url('../../assets/hero.png');
+    url('../../assets/fatec-bg.png');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -13,11 +13,11 @@
 
 .hero-text {
     text-align: center;
-    max-width: 800px;
+    max-width: 900px;
 }
 
 .hero-text h1 {
-    font-size: 60px;
+    font-size: 56px;
     font-weight: 600;
 }
 

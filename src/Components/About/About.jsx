@@ -11,12 +11,12 @@ const About = ({setPlayState}) => {
         <img src={play_icon} alt="" className='play-icon' onClick={()=>{setPlayState(true)}} />
       </div>
       <div className="about-right">
-        <h3>ABOUT UNIVERSITY</h3>
-        <h2>Nurturing Tomorrow's Leaders Today</h2>
-        <p>Embark on a transformative educational journey with 
-        our university's comprehensive education programs. Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education.</p>
-        <p>With a focus on innovation, hands-on learning, and personalized mentorship, our programs prepare aspiring educators to make a meaningful impact in classrooms, schools, and communities.</p>
-        <p>Whether you aspire to become a teacher, administrator, counselor, or educational leader, our diverse range of programs offers the perfect pathway to achieve your goals and unlock your full potential in shaping the future of education.</p>
+        <h3>SOBRE A FACULDADE</h3>
+        <h2>Formando os líderes de amanhã, hoje</h2>
+        <p>A FATEC Jahu (Faculdade de Tecnologia de Jaú) é uma instituição pública de ensino superior vinculada ao Centro Paula Souza, reconhecida pela qualidade acadêmica e pela formação tecnológica de excelência.</p>
+        <p>A unidade oferece cursos superiores gratuitos voltados às demandas do mercado de trabalho, com foco em inovação, prática profissional e desenvolvimento regional.</p>
+        <p>A FATEC Jahu contribui para a formação de profissionais qualificados, preparados para atuar de forma ética, crítica e eficiente em suas áreas de conhecimento.</p>
+        <p>Os cursos oferecidos pela FATEC Jahu abrangem áreas estratégicas da tecnologia e da gestão, como Análise e Desenvolvimento de Sistemas, Sistemas para Internet, Logística, entre outros, proporcionando uma formação sólida que alia teoria e prática, capacitando os alunos para enfrentar os desafios do mercado de trabalho e acompanhar as constantes evoluções tecnológicas.</p>
       </div>
     </div>
   )

@@ -6,11 +6,9 @@ const Hero = () => {
   return (
     <div className='hero container'>
       <div className="hero-text">
-        <h1>We Ensure better education for a better world</h1>
-        <p>Our cutting-edge curriculum is designed to empower 
-        students with the knowledge, skills, and experiences 
-        needed to excel in the dynamic field of education</p>
-        <button className="btn">Explore more <img src={dark_arrow} alt="" /></button>
+        <h1>Faculdade de Tecnologia de Jahu</h1>
+        <p>A Faculdade de Tecnologia de Jahu – FATEC-JAHU é uma Instituição Pública de Ensino Superior que oferece cursos de graduação para formação de Tecnólogos, visando atender segmentos atuais e emergentes da atividade econômica</p>
+        <button className="btn">Explore mais <img src={dark_arrow} alt="" /></button>
       </div>
     </div>
   )
