@@ -1,5 +1,5 @@
-# Fatec Jau Recat
-<p>Esse é um site que desenvolvi em React JS sobre a Faculdade de Tecnologia de Jau (Fatec Jau).</p>
+# Fatec Jaú React
+<p>Esse é um site que desenvolvi em React JS sobre a Faculdade de Tecnologia de Jaú (Fatec Jaú).</p>
 <p>Acesse o site: <a href="https://fatec-jau-react.vercel.app/" target="_blank">Fatec Jau React</a></p>
 
 ![print_tela](public/readme/print_tela.png)
@@ -31,7 +31,7 @@
       <img src="public/readme/javascript.png" width="30">
     </td>
     <td>
-      JavaScript: Comportamento do site
+      JavaScript: Comportamento da página web
     </td>
   </tr>
 
