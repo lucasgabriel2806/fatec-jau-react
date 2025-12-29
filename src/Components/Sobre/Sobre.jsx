@@ -1,16 +1,16 @@
 import React from 'react';
-import './About.css';
-import about_img from '../../assets/about.png';
+import './Sobre.css';
+import sobre_img from '../../assets/sobre.png';
 import play_icon from '../../assets/play-icon.png';
 
-const About = ({setPlayState}) => {
+const Sobre = ({setPlayState}) => {
   return (
-    <div className='about'>
-      <div className="about-left">
-        <img src={about_img} alt="" className='about-img' />
+    <div className='sobre'>
+      <div className="sobre-left">
+        <img src={sobre_img} alt="" className='sobre-img' />
         <img src={play_icon} alt="" className='play-icon' onClick={()=>{setPlayState(true)}} />
       </div>
-      <div className="about-right">
+      <div className="sobre-right">
         <h3>SOBRE A FACULDADE</h3>
         <h2>Formando os líderes de amanhã, hoje</h2>
         <p>A FATEC Jahu (Faculdade de Tecnologia de Jaú) é uma instituição pública de ensino superior vinculada ao Centro Paula Souza, reconhecida pela qualidade acadêmica e pela formação tecnológica de excelência.</p>
@@ -22,4 +22,4 @@ const About = ({setPlayState}) => {
   )
 }
 
-export default About;
+export default Sobre;
