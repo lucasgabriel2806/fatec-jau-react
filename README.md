@@ -1,16 +1,52 @@
-# React + Vite
+# Fatec Jau Recat
+<p>Esse é um site que desenvolvi em React JS sobre a Faculdade de Tecnologia de Jau (Fatec Jau).</p>
+<p>Acesse o site: <a href="https://fatec-jau-react.vercel.app/" target="_blank">Fatec Jau React</a></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![print_tela](public/readme/print_tela.png)
 
-Currently, two official plugins are available:
+<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias utilizadas
+<table>
+  <tr>
+    <td width="50">
+      <img src="public/readme/html.png" width="35">
+    </td>
+    <td>
+      HTML: Estrutura da página web
+    </td>
+  </tr>
 
-## React Compiler
+  <tr>
+    <td width="50">
+      <img src="public/readme/css.png" width="35">
+    </td>
+    <td>
+      CSS: Estilo da página web
+    </td>
+  </tr>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  <tr>
+    <td width="50">
+      <img src="public/readme/javascript.png" width="30">
+    </td>
+    <td>
+      JavaScript: Comportamento do site
+    </td>
+  </tr>
 
-## Expanding the ESLint configuration
+  <tr>
+    <td width="50">
+      <img src="public/readme/react.png" width="30">
+    </td>
+    <td>
+      React JS: Biblioteca JavaScript Front-End
+    </td>
+  </tr>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</table>
+
+## Vídeo tutorial
+```
+https://www.youtube.com/watch?v=WbV3zRgpw_E
+```
